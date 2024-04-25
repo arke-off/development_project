@@ -1,5 +1,5 @@
-##conjunto de reglas que definen como se tiene que escribir el código
-##python es sensible a las indentaciones
+## Conjunto de reglas que definen como se tiene que escribir el código
+## Python es sensible a las indentaciones
 
 a=10
 if a == 2:
