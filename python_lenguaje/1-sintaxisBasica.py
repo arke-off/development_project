@@ -1,7 +1,7 @@
 # Imprimiendo texto
 texto = "Hola mundo"
 print (texto)
-
+#nueva linea archivo 2
 # Declaracion de variables
 a=2
 b=5
